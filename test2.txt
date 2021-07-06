@@ -1,0 +1,11 @@
+ Volume in drive E is ExtDario
+ Volume Serial Number is 8AAC-D241
+
+ Directory of E:\unlam\testp2
+
+06/07/2021  18:28    <DIR>          .
+06/07/2021  18:28    <DIR>          ..
+06/07/2021  18:24               328 test.txt
+06/07/2021  18:28                 0 test2.txt
+               2 File(s)            328 bytes
+               2 Dir(s)  292.933.566.464 bytes free
